@@ -1,0 +1,8 @@
+node_modules
+*.swp
+venv
+*.pyc
+*.bin.gz
+.idea
+config.json
+*.json
